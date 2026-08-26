@@ -21,15 +21,16 @@ It also means the tedious parts of hiring get more honest in both directions: yo
 
 ## Current challenges
 
-| Role | Challenge | Data Packet |
-|------|-----------|-------------|
-| Growth Marketing Manager | [challenges/growth-marketing-manager.md](challenges/growth-marketing-manager.md) | [data/growth-marketing-manager/](data/growth-marketing-manager/) |
+| Role | Challenge | Data Packet | Baseline |
+|------|-----------|-------------|----------|
+| Growth Marketing Manager | [challenges/growth-marketing-manager.md](challenges/growth-marketing-manager.md) | [data/growth-marketing-manager/](data/growth-marketing-manager/) | Claude |
+| Email Copywriter | [challenges/copywriter.md](challenges/copywriter.md) | [data/copywriter/](data/copywriter/) | Jarvis (in-house AI content system) |
 
 ## Ground rules
 
 - All account figures in challenge data packets are **illustrative** — modeled to behave like the real thing, but fictional. Publicly available facts about Adapt Naturals are genuine.
 - Use any tools you want, including AI. Show your work where the brief asks for it.
-- Candidate submissions are used for evaluation only and are never used commercially.
+- Candidate submissions are used for evaluation only and are never used commercially — unless the challenge is a **paid audition** (marked in the brief), in which case the fee covers agreed usage, such as live A/B testing the work against the AI baseline.
 
 ## About Adapt Naturals
 
