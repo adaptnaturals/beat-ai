@@ -55,7 +55,8 @@ Analyze the data however you like — spreadsheets, Python, AI tools, anything. 
 
 **Under 250 words.** Before anything else, tell us:
 
-- The largest Meta budget you've **personally** managed hands-on (monthly spend, brand type, subscription or not)
+- The largest Meta budget you've **personally** managed hands-on, as the person in the account daily, not the person overseeing it (monthly **Meta** spend only, not blended across channels; brand type; subscription or not; purchase-optimized or lead gen)
+- Whether hands-on Meta buying is your **primary responsibility today**. If not, when it last was.
 - The specific result: what happened to nCPA, MER, or scale, over what timeframe
 - One decision you got wrong in that account and what it taught you
 
